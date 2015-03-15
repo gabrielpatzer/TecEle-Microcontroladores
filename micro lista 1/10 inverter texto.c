@@ -1,4 +1,4 @@
-Ler um nome e invertê-lo.
+//Ler um nome e invertê-lo.
 #include <stdio.h>
 
 int main(){

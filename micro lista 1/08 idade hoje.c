@@ -5,7 +5,7 @@ int main(){
 	int Nano,aniversario,idade;
 	printf("Em que ano voc%c nasceu? ",136);
 	scanf("%d",&Nano);
-	printf("Voc%c j%a fez anivers%crio este ano (Digite 0 caso nao e 1 caso sim.)? ",136,160);
+	printf("Voc%c j%c fez anivers%crio este ano (Digite 0 caso nao e 1 caso sim.)? ",136,160,160);
 	scanf("%d",&aniversario);
 	if (aniversario)
 		idade = 2015 - Nano;
