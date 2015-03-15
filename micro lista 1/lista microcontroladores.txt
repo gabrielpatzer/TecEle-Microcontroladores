@@ -1,0 +1,12 @@
+Ler um texto e contar as palavras.
+Ler um texto e transformar 'a' em 'A'.
+Ler um texto e transformar todas letras minúsculas em maiúsculas.
+Ler um nome e imprimir as iniciais.
+Ler um valor de ano e informar se é bissexto.
+Ler uma quantidade de horas e informar em minutos.
+Ler um valor em minutos e informar em hh:mm
+Ler uma data de nascumento e dizer qual é a idade atual.
+Criar uma calculadora de dois operandos. A operação deve ser selecionada através de um menu.
+Ler um nome e invertê-lo.
+Ler um CPF e dizer se é válido ou inválido.
+Gerar um CPF válido.
